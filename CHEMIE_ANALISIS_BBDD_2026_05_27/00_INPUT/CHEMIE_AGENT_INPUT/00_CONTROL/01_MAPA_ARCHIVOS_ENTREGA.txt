@@ -1,0 +1,173 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 000000C4 5405:CFC8
+C:\MASTERSQL\ANALISIS_GRUPO\ENTREGA_AGENTE
+ÃÄÄÄ00_CONTROL
+³       00_MANIFIESTO_PROYECTO_CHEMIE.md
+³       01_MAPA_ARCHIVOS_ENTREGA.txt
+³       08B_resumen_incidencias_para_septiembre.md
+³       09_ROADMAP_ENTRADA_JERO.md
+³       10J_ARCHIVOS_VALIDOS_ENTREGA_AGENTE.txt
+³       10J_INDICE_TECNICO_EXTRACCIONES.md
+³       
+ÃÄÄÄ00_CONTROLif
+ÃÄÄÄ01_TXT_FUENTE
+³       00_schema_tablas_clave_grupo.txt
+³       01_validacion_total_grupo.txt
+³       02_margen_clientes_proveedores_grupo.txt
+³       03_cobros_bancos_deuda_grupo.txt
+³       04_pyg_patrimonio_grupo.txt
+³       05_incidencias_grupo.txt
+³       06_productos_costes_y_anomalias_grupo.txt
+³       07A_ventas_lineas_grupo_2024_2025_LIMPIO.psv
+³       07B_clientes_pendientes_grupo_2025_LIMPIO.psv
+³       07C_proveedores_pendientes_grupo_2025_LIMPIO.psv
+³       07D_bancos_deuda_grupo_2024_2025_LIMPIO.psv
+³       07E_diario_sensible_grupo_2024_2025_LIMPIO.psv
+³       07G_articulos_maestro_grupo_LIMPIO.psv
+³       07H_clientes_maestro_grupo_LIMPIO.psv
+³       07I_proveedores_maestro_grupo_LIMPIO.psv
+³       07J_familias_maestro_grupo_LIMPIO.psv
+³       07K_resumen_validacion_ventas_vs_maestros.psv
+³       07K_validacion_ventas_vs_maestros_grupo_2024_2025.psv
+³       08A_registro_incidencias_prioritarias.psv
+³       10B1_compras_cabecera_grupo_2024_2025_LIMPIO.psv
+³       10B2_compras_lineas_grupo_2024_2025_LIMPIO.psv
+³       10C1_stock_actual_grupo_LIMPIO.psv
+³       10C2_movimientos_almacen_grupo_2024_2025_LIMPIO.psv
+³       10C3_resumen_stock_grupo_LIMPIO.psv
+³       10C4_anomalias_stock_grupo.psv
+³       10D1_precios_base_articulos_grupo_LIMPIO.psv
+³       10D2_descuentos_cliente_articulo_grupo_LIMPIO.psv
+³       10D3_resumen_precios_grupo_LIMPIO.psv
+³       10D4_anomalias_precios_grupo.psv
+³       10E1_amortizaciones_grupo_LIMPIO.psv
+³       10E2_diario_inmovilizado_grupo_2024_2025_LIMPIO.psv
+³       10E3_resumen_inmovilizado_grupo.psv
+³       10E4_incidencias_inmovilizado_grupo.psv
+³       10F1_clientes_comercial_grupo_LIMPIO.psv
+³       10F2_zonas_grupo_LIMPIO.psv
+³       10F3_zonas_bares_tarifas_grupo_LIMPIO.psv
+³       10F4_resumen_comercial_grupo_LIMPIO.psv
+³       10F5_resumen_validacion_comercial_grupo.psv
+³       10G1_lotes_grupo_LIMPIO.psv
+³       10G2_etiquetas_lotes_grupo_LIMPIO.psv
+³       10G3_resumen_lotes_caducidad_grupo_LIMPIO.psv
+³       10G4_series_grupo_LIMPIO.psv
+³       10G5_anomalias_lotes_caducidad_grupo.psv
+³       10G6_resumen_validacion_lotes_grupo.psv
+³       10H1_ventas_vinculadas_grupo_2024_2025_LIMPIO.psv
+³       10H2_compras_vinculadas_grupo_2024_2025_LIMPIO.psv
+³       10H3_diario_vinculadas_sensible_grupo_2024_2025_LIMPIO.psv
+³       10H4_resumen_intragrupo_vinculadas.psv
+³       10H5_falsos_positivos_excluidos.psv
+³       10I1_iva_ventas_facturas_grupo_2024_2025_LIMPIO.psv
+³       10I2_iva_compras_facturas_grupo_2024_2025_LIMPIO.psv
+³       10I3_diario_iva_472_477_grupo_2024_2025_LIMPIO.psv
+³       10I4_resumen_iva_grupo_2024_2025_LIMPIO.psv
+³       10I5_resumen_diferencias_iva_facturas_vs_diario.psv
+³       
+ÃÄÄÄ01_TXT_FUENTEif
+ÃÄÄÄ02_SQL
+³   ³   00_schema_tablas_clave_almeriense.sql
+³   ³   00_schema_tablas_clave_chemie.sql
+³   ³   00_schema_tablas_clave_ecoclean.sql
+³   ³   01_validacion_total.sql
+³   ³   01_validacion_total_almeriense.sql
+³   ³   01_validacion_total_chemie.sql
+³   ³   01_validacion_total_ecoclean.sql
+³   ³   02_margen_clientes_proveedores.sql
+³   ³   02_margen_clientes_proveedores_almeriense.sql
+³   ³   02_margen_clientes_proveedores_chemie.sql
+³   ³   02_margen_clientes_proveedores_ecoclean.sql
+³   ³   03_cobros_bancos_deuda_almeriense.sql
+³   ³   03_cobros_bancos_deuda_chemie.sql
+³   ³   03_cobros_bancos_deuda_ecoclean.sql
+³   ³   04_pyg_patrimonio_almeriense.sql
+³   ³   04_pyg_patrimonio_chemie.sql
+³   ³   04_pyg_patrimonio_ecoclean.sql
+³   ³   05_incidencias_almeriense.sql
+³   ³   05_incidencias_chemie.sql
+³   ³   05_incidencias_ecoclean.sql
+³   ³   06_productos_costes_almeriense.sql
+³   ³   06_productos_costes_chemie.sql
+³   ³   06_productos_costes_ecoclean.sql
+³   ³   EJECUTAR_SCHEMA_Y_BLOQUE_05.bat
+³   ³   
+³   ÀÄÄÄ00_DESCUBRIMIENTO
+³           00A_inventario_esquema_chemie.sql
+³           00B_tablas_candidatas_chemie.sql
+³           00C_columnas_candidatas_chemie.sql
+³           11_muestras_clientes_pendientes_chemie.sql
+³           12_muestra_catalogopendienteclientes_chemie.sql
+³           
+ÃÄÄÄ02_SQLif
+ÃÄÄÄ03_DESCUBRIMIENTO
+³       00A_inventario_esquema_CHEMIE.txt
+³       00B_tablas_candidatas_CHEMIE.txt
+³       00C_columnas_candidatas_CHEMIE.txt
+³       11_muestras_clientes_pendientes_CHEMIE.txt
+³       
+ÃÄÄÄ03_DESCUBRIMIENTOif
+ÃÄÄÄ04_EMPRESAS
+³   ÃÄÄÄALMERIENSE
+³   ³   ³   00_schema_tablas_clave.txt
+³   ³   ³   00_validar_DATOSCENTRAL.txt
+³   ³   ³   00_validar_DATOSTIENDA.txt
+³   ³   ³   00_validar_MASTERSQL.txt
+³   ³   ³   01_validacion_total.txt
+³   ³   ³   01_ventas_compras_almeriense.txt
+³   ³   ³   02_margen_clientes_proveedores.txt
+³   ³   ³   02_margen_familias_almeriense.txt
+³   ³   ³   03_cobros_bancos_deuda.txt
+³   ³   ³   03_sin_familia_almeriense.txt
+³   ³   ³   04_outliers_coste_almeriense.txt
+³   ³   ³   04_pyg_patrimonio.txt
+³   ³   ³   05_familia7_detalle_almeriense.txt
+³   ³   ³   05_incidencias_almeriense.txt
+³   ³   ³   06_sin_familia_con_cliente_almeriense.txt
+³   ³   ³   07_intercompany_chemie_almeriense.txt
+³   ³   ³   08_top_clientes_externos_almeriense.txt
+³   ³   ³   09_top_proveedores_almeriense.txt
+³   ³   ³   10b_proveedores_pendientes_almeriense.txt
+³   ³   ³   10c_detalle_canalex_almeriense.txt
+³   ³   ³   10d_detalle_proveedores_pendientes_almeriense.txt
+³   ³   ³   10e_pendiente_clientes_ajustado_almeriense.txt
+³   ³   ³   10f_top_clientes_pendiente_ajustado_almeriense.txt
+³   ³   ³   10g_proveedores_pendiente_ajustado_almeriense.txt
+³   ³   ³   10h_top_proveedores_pendiente_ajustado_almeriense.txt
+³   ³   ³   10_cobros_pagos_almeriense.txt
+³   ³   ³   11_bancos_deuda_almeriense.txt
+³   ³   ³   12_detalle_deuda_170_almeriense.txt
+³   ³   ³   13_patrimonial_almeriense.txt
+³   ³   ³   14_resumen_patrimonial_por_cuenta.txt
+³   ³   ³   15_nombres_cuentas_patrimonial.txt
+³   ³   ³   16_resumen_patrimonial_2024_2025_sin_regularizacion.txt
+³   ³   ³   16_resumen_patrimonial_limpio.txt
+³   ³   ³   17_titulos_cuentas_6_7.txt
+³   ³   ³   
+³   ³   ÀÄÄÄNueva carpeta
+³   ÃÄÄÄCHEMIE
+³   ³       00_schema_tablas_clave.txt
+³   ³       01_validacion_total.txt
+³   ³       02_margen_clientes_proveedores.txt
+³   ³       03_cobros_bancos_deuda.txt
+³   ³       04_pyg_patrimonio.txt
+³   ³       05_incidencias_chemie.txt
+³   ³       
+³   ÀÄÄÄECOCLEAN
+³           00_schema_tablas_clave.txt
+³           01_estado_general_ecoclean.txt
+³           01_validacion_total.txt
+³           02_comercial_margen_ecoclean.txt
+³           02_margen_clientes_proveedores.txt
+³           03_cobros_bancos_deuda.txt
+³           03_financiero_ecoclean.txt
+³           04a_ventas_grupo_ecoclean.txt
+³           04b_compras_grupo_ecoclean.txt
+³           04c_ventas_grupo_limpio_ecoclean.txt
+³           04_operaciones_grupo_ecoclean.txt
+³           04_pyg_patrimonio.txt
+³           05_incidencias_ecoclean.txt
+³           
+ÃÄÄÄ04_EMPRESASif
+ÀÄÄÄ99_BASURA_REVISAR

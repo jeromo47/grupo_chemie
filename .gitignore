@@ -1,0 +1,28 @@
+# Brutos / inbox
+00_inbox/
+00_fuente_drive/
+
+# Binarios y paquetes
+*.zip
+*.7z
+*.rar
+*.pdf
+*.docx
+*.xlsx
+*.xls
+*.ods
+
+# Bases de datos / caches
+*.duckdb
+*.db
+*.sqlite
+*.sqlite3
+
+# Exportes pesados
+*.csv
+
+# Temporales
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

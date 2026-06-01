@@ -1,0 +1,6 @@
+ID|EMPRESA|AREA|DATO_DETECTADO|IMPACTO|PREGUNTA|PRIORIDAD
+INM-001|ECOCLEAN|Inmovilizado|0 registros en AMORTIZACIONES y 0 movimientos 20/21/28/681/682 en diario 2024-2025|No consta inmovilizado/amortización en Ecoclean en la BBDD extraída|¿Ecoclean no tiene activos propios o se registran en otra sociedad?|Media
+INM-002|CHEMIE|Vehículos|14 activos marcados como vehículo por 255,624.47 €|Peso relevante de vehículos en inmovilizado; afecta gasto de amortización y bajas|¿Qué vehículos siguen vivos, cuáles se vendieron y cuáles son de uso operativo/personal?|Alta
+INM-003|CHEMIE|Bajas inmovilizado 2025|Bajas activo haber 67,405.07 €, pérdidas 671 17,127.20 €, beneficio 771 1,357.46 €|Hay ventas/bajas de activos que deben cruzarse con facturas y vehículos|¿Qué activos se vendieron/bajaron en 2025 y con qué documentación/factura?|Muy Alta
+INM-004|ALMERIENSE|Patrimonial|Nave marcada por 76,629.04 € y vivienda/inmuebles relevantes en registro|ACI mezcla activo patrimonial y operativo; afecta lectura del negocio|Separar nave operativa, Macenas/piso y activo comercial antes de analizar rentabilidad|Alta
+INM-005|GRUPO|Libro bienes inversión|LIBROREGISTROBIENESINVERSION vacío en las 3 empresas|No hay detalle fiscal completo de bienes de inversión en esa tabla|Pedir listado externo de inmovilizado/cuadros amortización a asesoría|Alta

@@ -1,0 +1,16 @@
+Syntax Error (37): Illegal character <76> in hex string
+Syntax Error (38): Illegal character <3c> in hex string
+Syntax Error (45): Illegal character <6f> in hex string
+Syntax Error (47): Illegal character <6a> in hex string
+Syntax Error (49): Illegal character <3c> in hex string
+Syntax Error (50): Illegal character <3c> in hex string
+Syntax Error (52): Illegal character <2f> in hex string
+Syntax Error (53): Illegal character <50> in hex string
+Syntax Error (54): Illegal character <72> in hex string
+Syntax Error (55): Illegal character <6f> in hex string
+Syntax Error (57): Illegal character <75> in hex string
+Syntax Error (60): Illegal character <72> in hex string
+Syntax Error (62): Illegal character <28> in hex string
+Syntax Error (63): Illegal character <29> in hex string
+Syntax Error (67): Illegal character '>'
+

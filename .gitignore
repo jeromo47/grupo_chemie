@@ -2,6 +2,11 @@
 00_inbox/
 00_fuente_drive/
 
+# Basura macOS / finder
+.DS_Store
+._*
+__MACOSX/
+
 # Binarios y paquetes
 *.zip
 *.7z
@@ -20,9 +25,14 @@
 
 # Exportes pesados
 *.csv
+*.psv
 
-# Temporales
+# Logs y temporales
 *.tmp
 *.log
-.DS_Store
 Thumbs.db
+
+# Árboles fuente/extraídos que no compensa versionar ahora
+CHEMIE_ANALISIS_BBDD_2026_05_27/00_INPUT/
+13_conocimiento_generado/pipeline_extraccion_documental/textos/
+13_conocimiento_generado/pipeline_extraccion_documental/ocr_pdf/

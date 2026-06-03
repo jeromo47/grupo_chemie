@@ -35,6 +35,27 @@ Además, preparar una capa específica de transición que permita:
 - ordenar la incorporación de Jero desde septiembre de 2026
 - sentar la base de un dashboard estable y un cierre mensual entendible
 
+## Fase actual prioritaria
+A partir de la auditoría estratégica externa y de la aclaración de que Jero no estará físicamente dentro hasta septiembre de 2026, la fase prioritaria del proyecto pasa a ser:
+
+**preparación remota para septiembre**
+
+con foco principal en:
+- explotación de DuckDB para entender cartera, concentración, margen y dependencias
+- preparación de la transferencia de know-how de tío y padre
+- definición del cuadro de mando mínimo
+- reducción del esfuerzo dedicado a histórico documental de bajo retorno inmediato
+
+## Nuevo frente técnico en apertura
+Además de la preparación remota de entrada, se abre un nuevo frente de alto valor:
+- **inventario de productos del ámbito químico y su marco regulatorio aplicable**
+
+Objetivo:
+- distinguir tipos de producto
+- separar usos reales
+- entender qué marco normativo aplica a cada caso
+- y reducir dependencia ciega de conocimiento oral técnico-regulatorio
+
 ## Nota de situación sobre la transición
 A fecha de esta actualización, ya puede sostenerse con bastante fuerza que el grupo empresarial necesita no solo más conocimiento documental sobre Chemie, ACI y Ecoclean, sino también una **arquitectura clara de relevo**.
 

@@ -1,0 +1,491 @@
+# Mapa maestro de productos químicos Chemie v3
+
+## Objetivo
+Crear una pieza maestra, estable y reutilizable para aprender el catálogo químico de Chemie con criterio, separando para cada producto:
+- qué es
+- qué función cumple
+- dónde se aplica
+- qué soporte documental tiene
+- qué especificaciones técnicas visibles constan
+- si tiene o no encaje eco documentado
+- y qué dudas siguen abiertas
+
+Este documento no pretende cerrar ya toda la clasificación técnica o legal definitiva.
+Pretende dejar un **mapa prudente y gobernable** del catálogo fuerte ya abierto, incluyendo productos nucleares y una tercera tanda selectiva que añade matices importantes.
+
+---
+
+## Principio de trabajo
+En este sector conviene distinguir siempre entre:
+- **producto comercial**
+- **familia funcional**
+- **uso**
+- **aplicación concreta**
+- **dosificación o modo de uso** (solo si consta)
+- **especificaciones técnicas**
+- **encaje eco**
+- **marco regulatorio prudente**
+
+Si no se separan estas capas, se mezcla todo bajo “productos químicos” y se pierde completamente la lógica real del catálogo.
+
+---
+
+## Tanda 1 - núcleo fuerte inicial
+
+### 1. OXISAN
+- **Familia funcional prudente**: oxidante / higienizante industrial
+- **Subfamilia**: línea oxidante ácida técnicamente sensible
+- **Uso / aplicación principal**: tratamiento higienizante en contexto técnico-industrial o alimentario/postcosecha
+- **Forma de intervención**: higienizar / oxidar / tratar
+- **Sector objetivo probable**: industria alimentaria, postcosecha, aguas de lavado o proceso relacionado
+- **Soporte documental actual**: **alto**
+- **Tipo de documento mejor disponible**: **FDS real propia de Chemie**
+- **Dosificación o modo de uso si consta**: **no consta en la ficha revisada**
+- **Especificaciones técnicas visibles**:
+  - mezcla corrosiva
+  - peróxido de hidrógeno
+  - ácido acético
+  - ácido sulfúrico
+  - clasificación Eye Dam. 1 / Skin Corr. 1A
+- **Encaje eco si consta**: **sí hay conexión fuerte en el proyecto con CAAE / ecológico, pero no debe simplificarse sin contexto de uso**
+- **Marco regulatorio prudente**: REACH/CLP/FDS + posible conexión con coadyuvante tecnológico / tratamiento de aguas / entorno eco según uso
+- **Riesgo de confusión**: alto
+- **Estado actual de confianza**: **alto**
+- **Dudas abiertas**:
+  - cierre exacto del marco operativo principal
+  - formulación/comercialización actual si ha habido cambios desde 2016
+
+### 2. CHEMGRAS DS
+- **Familia funcional prudente**: desengrasante / limpiador industrial
+- **Subfamilia**: desengrase técnico de superficies
+- **Uso / aplicación principal**: limpieza y desengrase de superficies
+- **Forma de intervención**: limpiar / desengrasar
+- **Sector objetivo probable**: limpieza técnica profesional e industrial
+- **Soporte documental actual**: **alto**
+- **Tipo de documento mejor disponible**: **FDS real propia**
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - 2-butoxietanol
+  - hidróxido de sodio
+  - aminas etoxiladas
+  - irritación cutánea y ocular
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: REACH/CLP/FDS
+- **Riesgo de confusión**: medio
+- **Estado actual de confianza**: **alto**
+- **Dudas abiertas**:
+  - sectores/clientes concretos
+  - vigencia exacta de formulación actual
+
+### 3. HIDROBRILL
+- **Familia funcional prudente**: auxiliar de lavado / secante-abrillantador
+- **Subfamilia**: postlavado hortofrutícola
+- **Uso / aplicación principal**: enjuague final y secado/abrillantado de verduras, hortalizas y frutas
+- **Forma de intervención**: acabar / secar / abrillantar
+- **Sector objetivo probable**: hortofrutícola / lavado industrial de alimentos frescos
+- **Soporte documental actual**: **medio-bajo**
+- **Tipo de documento mejor disponible**: ficha técnica / hoja comercial con elementos CLP
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - pH aprox. 5,5
+  - isotridecanol etoxilado
+  - tensioactivos, glicoles, alcoholes, aceites minerales y ácidos orgánicos
+  - H315 / H318 / H412
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: REACH/CLP/FDS parcial + posible auxiliar/coadyuvante de proceso por concretar
+- **Riesgo de confusión**: alto
+- **Estado actual de confianza**: **medio**
+- **Dudas abiertas**:
+  - FDS completa
+  - encaje exacto como auxiliar tecnológico o figura equivalente
+
+### 4. V-80
+- **Familia funcional prudente**: aceite blanco medicinal / auxiliar técnico alimentario
+- **Subfamilia**: lubricante técnico apto para contacto alimentario
+- **Uso / aplicación principal**: lubricación/auxilio técnico en contacto directo o indirecto con alimentos, procesado y envasado
+- **Forma de intervención**: lubricar / auxiliar proceso / proteger
+- **Sector objetivo probable**: industria alimentaria, farmacéutica, cosmética e industrias técnicas varias
+- **Soporte documental actual**: **medio-alto**
+- **Tipo de documento mejor disponible**: ficha técnica fuerte / especificación técnica
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - Paraffinum perliquidum
+  - calidad codex-farmacéutica
+  - NSF H-1
+  - FDA 172.878 y 178.3620(a)
+  - Reglamento CE 1935/2004
+  - densidad aprox. 0,84
+  - viscosidad 17 cSt a 40 ºC
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: contacto alimentario / especificaciones técnicas / REACH-FDS pendiente si existiera
+- **Riesgo de confusión**: alto
+- **Estado actual de confianza**: **medio-alto**
+- **Dudas abiertas**:
+  - FDS completa
+  - posición exacta frente a IBERFARM L
+  - peso comercial real bajo naming actual
+
+### 5. ACTIV CLOR
+- **Familia funcional prudente**: blanqueante clorado / limpiador clorado
+- **Subfamilia**: hipoclorito para limpieza y blanqueo profesional
+- **Uso / aplicación principal**: limpieza y blanqueo
+- **Forma de intervención**: blanquear / limpiar / clorar
+- **Sector objetivo probable**: limpieza técnica profesional
+- **Soporte documental actual**: **alto**
+- **Tipo de documento mejor disponible**: **FDS completa**
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - hipoclorito sódico
+  - 15 % cloro activo visible
+  - H314 / EUH031 / EUH206
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: REACH/CLP/FDS; línea clorada profesional
+- **Riesgo de confusión**: medio
+- **Estado actual de confianza**: **alto**
+- **Dudas abiertas**:
+  - usos sectoriales concretos
+  - posición comercial actual frente a otras líneas cloradas
+
+### 6. ALICLOR COMPLET
+- **Familia funcional prudente**: limpiador-desinfectante clorado alcalino
+- **Subfamilia**: detergente bactericida/fungicida clorado profesional
+- **Uso / aplicación principal**: limpieza y desinfección de superficies, equipos y utensilios
+- **Forma de intervención**: limpiar / desinfectar / desengrasar
+- **Sector objetivo probable**: industria alimentaria, uso ambiental, salud pública/privada en el marco visible histórico-documental
+- **Soporte documental actual**: **alto**
+- **Tipo de documento mejor disponible**: **FDS completa + soporte registral/técnico**
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - hipoclorito sódico 5 % cloro activo
+  - hidróxido de potasio 2 - 5 %
+  - amina óxido laurílica 10 - 25 %
+  - H314 / H410 / EUH031
+  - registro visible 12-20/40-06373 / HA
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: REACH/CLP/FDS + pieza muy sensible del perímetro desinfectante/biocida profesional
+- **Riesgo de confusión**: medio-alto
+- **Estado actual de confianza**: **alto**
+- **Dudas abiertas**:
+  - vigencia exacta actual del registro/documentación
+  - coincidencia plena con formulación viva actual
+
+### 7. TUNELIMP
+- **Familia funcional prudente**: detergente alcalino técnico de lavado industrial
+- **Subfamilia**: limpiador cáustico de proceso / túnel de lavado
+- **Uso / aplicación principal**: lavado técnico industrial, material/superficies y línea de túnel o lavavajillas industrial
+- **Forma de intervención**: limpiar / arrastrar suciedad / lavado cáustico técnico
+- **Sector objetivo probable**: industria alimentaria o limpieza técnica industrial
+- **Soporte documental actual**: **alto**
+- **Tipo de documento mejor disponible**: **FDS completa + hoja previa de apoyo**
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - hidróxido de sodio 5 - 25 %
+  - nitrilotriacetic acid 1 - 10 %
+  - poliacrilato sódico 1 - 10 %
+  - H314
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: REACH/CLP/FDS; detergencia técnica profesional
+- **Riesgo de confusión**: alto
+- **Estado actual de confianza**: **alto**
+- **Dudas abiertas**:
+  - si la hoja “TUNELIMP CLORADO” es la misma formulación exacta o una variante
+  - posición comercial actual exacta dentro del catálogo
+
+---
+
+## Tanda 2 - familias complementarias clave
+
+### 8. DERGEL SO
+- **Familia funcional prudente**: higiene de manos profesional sin residuo
+- **Subfamilia**: jabón líquido para industria alimentaria
+- **Uso / aplicación principal**: lavado de manos en entorno alimentario
+- **Forma de intervención**: higiene / lavado de manos
+- **Sector objetivo probable**: industria alimentaria y entornos con ensuciamiento no severo
+- **Soporte documental actual**: **medio**
+- **Tipo de documento mejor disponible**: ficha técnica / hoja CLP
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - sin perfume
+  - sin colorantes
+  - sin residuo
+  - pH aprox. 5,5
+  - no clasificado como peligroso según lo visible
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: producto de higiene profesional; soporte CLP/ficha técnica, FDS pendiente si existiera
+- **Riesgo de confusión**: medio
+- **Estado actual de confianza**: **medio**
+- **Dudas abiertas**:
+  - FDS completa
+  - peso comercial real
+  - relación con otras referencias de manos como LICOGEL o familia DERGEL ampliada
+
+### 9. BRINET BQ
+- **Familia funcional prudente**: limpiador general de superficies / fregasuelos
+- **Subfamilia**: limpieza de mantenimiento base bioalcohol
+- **Uso / aplicación principal**: limpieza de suelos, paredes y superficies duras
+- **Forma de intervención**: limpiar / mantener / perfumar
+- **Sector objetivo probable**: oficinas, fábricas, hospitales, hostelería e incluso mención de uso en industria alimentaria
+- **Soporte documental actual**: **medio-bajo**
+- **Tipo de documento mejor disponible**: ficha técnica / hoja comercial CLP
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - base bioalcohol
+  - pH aprox. 7,5
+  - tensioactivos no iónicos
+  - perfume y colorante
+  - H319
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: limpieza general / REACH-CLP básico, FDS pendiente
+- **Riesgo de confusión**: medio
+- **Estado actual de confianza**: **medio-bajo**
+- **Dudas abiertas**:
+  - FDS completa
+  - significado práctico del “apto para industria alimentaria”
+  - peso comercial real comparado con otros BRINET
+
+### 10. BRINET AML
+- **Familia funcional prudente**: limpiador general amoniacal
+- **Subfamilia**: limpieza y desodorización de mantenimiento
+- **Uso / aplicación principal**: limpieza y desodorización de superficies y suelos
+- **Forma de intervención**: limpiar / desodorizar / mantener
+- **Sector objetivo probable**: urinarios públicos, hostelería, residencias, gimnasios, saunas, centros oficiales
+- **Soporte documental actual**: **medio-bajo**
+- **Tipo de documento mejor disponible**: ficha técnica / hoja comercial CLP
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - amoniacal
+  - olor a pino
+  - pH aprox. 10,5
+  - H315 / H319
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: limpieza general / REACH-CLP básico, FDS pendiente
+- **Riesgo de confusión**: bajo-medio
+- **Estado actual de confianza**: **medio-bajo**
+- **Dudas abiertas**:
+  - FDS completa
+  - peso comercial real y vigencia de línea actual
+
+### 11. NETIND
+- **Familia funcional prudente**: limpiador-disolvente profesional
+- **Subfamilia**: limpieza técnica por disolvente
+- **Uso / aplicación principal**: limpieza/disolución de uso profesional
+- **Forma de intervención**: disolver / limpiar / desengrasar por solvente
+- **Sector objetivo probable**: limpieza técnica profesional e industrial
+- **Soporte documental actual**: **alto**
+- **Tipo de documento mejor disponible**: **FDS completa**
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - decano 75 - <100 %
+  - H226
+  - H304
+  - EUH066
+  - Flam. Liq. 3 / Asp. Tox. 1
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: REACH/CLP/FDS; producto solvente profesional
+- **Riesgo de confusión**: medio
+- **Estado actual de confianza**: **alto**
+- **Dudas abiertas**:
+  - usos sectoriales más habituales
+  - peso real de esta familia solvente en el catálogo activo
+
+### 12. TR-20
+- **Familia funcional prudente**: auxiliar técnico para aguas de lavado / postcosecha
+- **Subfamilia**: aditivo funcional de proceso hortofrutícola
+- **Uso / aplicación principal**: aguas de lavado, eliminación de residuos de postcosecha y fitosanitarios, mejora de acabado/brillo y control de restos de cal
+- **Forma de intervención**: tratar agua / mejorar proceso / ayudar acabado
+- **Sector objetivo probable**: industria alimentaria hortofrutícola, especialmente tomate y túneles de lavado tipo DINOX
+- **Soporte documental actual**: **medio**
+- **Tipo de documento mejor disponible**: ficha técnica fuerte con anexo explicativo
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - pH aprox. 2,2 al 1 %
+  - H319
+  - ácidos orgánicos e inorgánicos
+  - alcoholes
+  - copolímeros
+  - referencias de calidad alimentaria en anexo
+- **Encaje eco si consta**: **no consta expresamente**
+- **Marco regulatorio prudente**: posible auxiliar/coadyuvante de proceso alimentario; FDS pendiente
+- **Riesgo de confusión**: alto
+- **Estado actual de confianza**: **medio-alto**
+- **Dudas abiertas**:
+  - FDS completa
+  - encaje regulatorio exacto
+  - peso comercial real frente a OXISAN e HIDROBRILL
+
+---
+
+## Tanda 3 - piezas selectivas que añaden matices nuevos
+
+### 13. CHEMGRAS BAC
+- **Familia funcional prudente**: detergente desengrasante higienizante
+- **Subfamilia**: higienizante no clorado con amonios cuaternarios
+- **Uso / aplicación principal**: desengrase e higienización de superficies
+- **Forma de intervención**: limpiar / desengrasar / higienizar
+- **Sector objetivo probable**: limpieza técnica profesional e industrial, posiblemente alimentaria según uso concreto
+- **Soporte documental actual**: **alto**
+- **Tipo de documento mejor disponible**: **FDS completa**
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - 2-butoxietanol
+  - hidróxido de sodio
+  - alcohol etoxilado
+  - compuestos de amonio cuaternario
+  - H314 / H302
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: REACH/CLP/FDS; pieza importante del eje higienizante no clorado
+- **Riesgo de confusión**: alto si se rebaja a simple CHEMGRAS “más fuerte” o si se funde con clorados
+- **Estado actual de confianza**: **alto**
+- **Dudas abiertas**:
+  - peso comercial real frente a CHEMGRAS DS
+  - usos sectoriales concretos y vigencia actual
+
+### 14. IBERFARM L
+- **Familia funcional prudente**: aceite blanco técnico de alta pureza / lubricante alimentario
+- **Subfamilia**: lubricante, antiadherente, desmoldante y abrillantador atóxico
+- **Uso / aplicación principal**: lubricación y auxiliares de procesamiento/envasado alimentario
+- **Forma de intervención**: lubricar / antiadherir / desmoldar / abrillantar
+- **Sector objetivo probable**: industria alimentaria, farmacéutica, cosmética, plásticos, caucho
+- **Soporte documental actual**: **medio-alto**
+- **Tipo de documento mejor disponible**: ficha técnica fuerte / especificación técnica
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - aceite blanco medicinal extremadamente refinado
+  - Farmacopea Europea / RFE / FDA / USP / Codex / BP
+  - Reglamento CE 1935/2004
+  - USDA H-1 / NSF
+  - densidad 0,840 - 0,855
+  - viscosidad 14,5 - 18 a 40 ºC
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: contacto alimentario / especificaciones técnicas / FDS pendiente
+- **Riesgo de confusión**: medio-alto si se funde sin más con V-80; son muy cercanos, pero no necesariamente idénticos en posicionamiento comercial
+- **Estado actual de confianza**: **medio-alto**
+- **Dudas abiertas**:
+  - FDS completa
+  - relación exacta con V-80
+  - peso real en ventas y recurrencia
+
+### 15. LICOGEL
+- **Familia funcional prudente**: gel sanitizante hidroalcohólico
+- **Subfamilia**: sanitización directa de manos/superficies de uso rápido
+- **Uso / aplicación principal**: higiene personal y sanitización rápida de superficies/utensilios
+- **Forma de intervención**: sanitizar / higienizar / aplicar directo
+- **Sector objetivo probable**: industria alimentaria, hostelería, colectividades, cocinas
+- **Soporte documental actual**: **medio**
+- **Tipo de documento mejor disponible**: ficha técnica fuerte
+- **Dosificación o modo de uso si consta**: **uso puro, sin necesidad de aclarado sobre superficies, según la ficha**
+- **Especificaciones técnicas visibles**:
+  - alcoholes > 50 %
+  - agentes suavizantes 5 - 15 %
+  - cloruro de benzalconio 0 - 1 %
+  - densidad aprox. 0,86
+  - pH aprox. 6,5
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: producto de higiene/sanitización con soporte parcial; FDS y CLP completos pendientes
+- **Riesgo de confusión**: medio, sobre todo con DERGEL SO o con desinfectantes más duros de superficies
+- **Estado actual de confianza**: **medio**
+- **Dudas abiertas**:
+  - FDS completa
+  - clasificación CLP real completa
+  - soporte adicional de usos sobre superficies/contacto alimentario
+  - peso real en ventas
+
+### 16. TUNELIMP CL
+- **Familia funcional prudente**: detergente clorado técnico para túneles de lavado
+- **Subfamilia**: variante clorada e higienizante de proceso alimentario
+- **Uso / aplicación principal**: limpieza de cajas de fruta, material de vidrio y material utilizado en alimentación
+- **Forma de intervención**: limpiar / higienizar / clorar / controlar incrustaciones
+- **Sector objetivo probable**: industria alimentaria, túneles de lavado industrial
+- **Soporte documental actual**: **medio**
+- **Tipo de documento mejor disponible**: ficha técnica / hoja CLP fuerte
+- **Dosificación o modo de uso si consta**: **no consta**
+- **Especificaciones técnicas visibles**:
+  - hipoclorito sódico
+  - hidróxido sódico
+  - agentes quelantes y alcalinizantes
+  - pH aprox. 12,5 al 1 %
+  - H314 / H332
+- **Encaje eco si consta**: **no consta**
+- **Marco regulatorio prudente**: detergente clorado/higienizante técnico; FDS específica pendiente
+- **Riesgo de confusión**: alto si se mezcla automáticamente con TUNELIMP genérico
+- **Estado actual de confianza**: **medio-alto**
+- **Dudas abiertas**:
+  - FDS completa específica
+  - relación exacta frente a TUNELIMP
+  - peso real en ventas y vigencia actual
+
+---
+
+## Lecturas útiles que deja ya esta v3
+
+### 1. El catálogo ya se ve como un sistema de subfamilias, no como una lista plana
+Con esta v3 ya se distinguen con bastante limpieza:
+- **oxidantes / higienizantes sensibles** -> OXISAN
+- **desengrase y limpieza industrial** -> CHEMGRAS DS, TUNELIMP
+- **clorados de limpieza/blanqueo o desinfección** -> ACTIV CLOR, ALICLOR, TUNELIMP CL
+- **higienización no clorada** -> CHEMGRAS BAC
+- **auxiliares técnicos hortofrutícolas y de proceso** -> HIDROBRILL, TR-20
+- **familias de mantenimiento, manos y limpieza comercial** -> DERGEL SO, BRINET BQ, BRINET AML
+- **sanitización rápida de manos/superficies** -> LICOGEL
+- **solventes técnicos** -> NETIND
+- **auxiliares técnicos alimentarios de alta pureza** -> V-80, IBERFARM L
+
+### 2. Ya aparecen parejas o familias que conviene no mezclar
+- **CHEMGRAS DS** vs **CHEMGRAS BAC**
+- **TUNELIMP** vs **TUNELIMP CL**
+- **DERGEL SO** vs **LICOGEL**
+- **V-80** vs **IBERFARM L**
+- **ACTIV CLOR** vs **ALICLOR COMPLET**
+
+Esto es importante porque seguramente parte del aprendizaje real del catálogo va a estar más en distinguir referencias muy próximas que en aprender solo productos aislados.
+
+### 3. La parte alimentaria interna queda mejor abierta
+Dentro de “alimentario” ya no queda todo mezclado:
+- higiene de manos -> DERGEL SO
+- sanitización rápida -> LICOGEL
+- limpieza/desinfección de superficies/equipos -> ALICLOR
+- proceso hortofrutícola y aguas de lavado -> OXISAN, HIDROBRILL, TR-20
+- auxiliares técnicos de contacto alimentario -> V-80, IBERFARM L
+- túneles de lavado y limpieza técnica alimentaria -> TUNELIMP, TUNELIMP CL
+
+### 4. La parte eco sigue siendo excepcional, no general
+Por ahora, la conexión eco/CAAE fuerte sigue concentrada en **OXISAN**.
+Eso ayuda a no contaminar el mapa llamando “eco” a productos alimentarios o técnicos donde no consta tal cosa.
+
+### 5. La dosificación sigue siendo uno de los mejores huecos para el futuro
+En esta fase ya empieza a verse muy claro que una futura capa de valor sería:
+- **rango de uso real**
+- **dosificación si consta**
+- **aplicación concreta por proceso**
+
+Pero todavía bien hecha, no inventada.
+
+---
+
+## Conclusión ejecutiva
+Con esta v3 el mapa ya no es solo una recopilación de fichas, sino una cartografía funcional bastante seria del catálogo químico fuerte de Chemie.
+
+La idea clave sería esta:
+
+> **El catálogo de Chemie no debe leerse como un bloque uniforme de “químicos”, sino como un sistema de familias distintas donde cambia mucho la lógica de uso, la sensibilidad regulatoria, el tipo de cliente y el valor técnico de cada referencia.**
+
+---
+
+## Siguiente tramo recomendado
+A partir de aquí veo dos caminos buenos:
+
+### Opción A - cerrar la tanda selectiva restante
+- **BACTER CHEM**
+- **ZOSY D**
+- **BRINET L**
+
+### Opción B - empezar una capa nueva de más valor
+Construir un segundo nivel del mapa con columnas específicas de:
+- **proceso concreto donde interviene**
+- **si toca o no producto alimentario/superficie/agua/mano**
+- **si consta dosificación o no**
+- **si el uso es directo, indirecto o auxiliar**
+
+### Mi recomendación real
+Yo ya empezaría la **opción B**.
+Porque ahora el mayor salto de valor no es añadir muchas más referencias medias, sino pasar de “qué es cada producto” a “cómo se usa realmente dentro del proceso”.

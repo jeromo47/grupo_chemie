@@ -28,3 +28,34 @@ Solo conocimiento ya destilado:
 - Antes de pensar en IA conversacional o automatizaciones ambiciosas, el movimiento más sensato parece ser construir un **dashboard estable** y un **cierre mensual entendible**.
 - El dashboard no debe nacer como adorno tecnológico, sino como herramienta de aprendizaje, control y gobierno.
 - La secuencia buena para el grupo parece ser: entender el dato, entender el negocio, fijar indicadores, montar dashboard y solo después sofisticar.
+
+### Sobre la lectura del núcleo societario y operativo
+- El núcleo **Chemie-ACI-Ecoclean** ya puede leerse como un sistema funcional y no como tres entidades aisladas.
+- **Chemie** ha quedado consolidada como motor operativo principal del núcleo.
+- **ACI** ha quedado mejor fijada como sociedad soporte-patrimonial y operativa, especialmente por la lectura ya asentada del alquiler de nave a Chemie por **7.200 €/año**.
+- **Ecoclean** debe leerse como vehículo ligero, familiar y transicional, útil para observar redistribución de actividad y relevo, pero sin sobredimensionarla como núcleo duro del grupo.
+- Una vez alcanzado este nivel, seguir generando narrativa transversal sin documento nuevo ofrece rendimiento decreciente; conviene cambiar de frente o esperar prueba nueva.
+
+### Sobre el bloque químico de Chemie
+- El catálogo químico de Chemie se aprende mucho mejor por **mundos funcionales** que por lista plana de productos.
+- Los mundos funcionales ya abiertos con sentido son:
+  - hortofrutícola/postcosecha/aguas de lavado/acabado
+  - superficies/equipos/líneas
+  - manos/sanitización rápida
+  - auxiliares técnicos/lubricación/contacto técnico alimentario
+  - mantenimiento general
+  - solvente técnico
+- El mayor valor de aprendizaje no está en memorizar nombres, sino en distinguir:
+  - sobre qué actúa el producto
+  - si toca mano, superficie, agua, género o maquinaria
+  - si limpia, higieniza, trata, acaba o lubrica
+  - y qué lógica documental/regulatoria arrastra
+- El perímetro **ECO** debe manejarse con mucha disciplina:
+  - **OXISAN** es la única pieza con soporte ECO real fuerte ya asentado
+  - **TR-20** e **HIDROBRILL** son cercanos al mundo hortofrutícola/postcosecha, pero no deben llamarse ECO por defecto
+  - “alimentario”, “hortofrutícola” o “contacto técnico compatible” no equivalen automáticamente a “eco”
+- En el bloque químico, cuando ya existe un mapa razonable, lo que más retorno da después no es más teoría general, sino:
+  - FDS faltantes
+  - dosificación real
+  - máquinas/puntos de uso
+  - y cierre de dudas sobre contacto con género/agua/proceso

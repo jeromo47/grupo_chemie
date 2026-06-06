@@ -99,6 +99,20 @@ Este archivo centraliza las dudas abiertas que van apareciendo durante la ingest
   - extraer mejor ACI y Ecoclean cuando toque, para que el núcleo no dependa solo de comparativas resumidas
 - Mantener visible esta idea: **hay que ir extrayendo mejor, poco a poco, y cada mejora de extracción debe traducirse en mejor análisis o mayor detalle útil del dossier**.
 
+## Nueva capa abierta: resultado real del grupo / extracciones pendientes de BBDD
+- Según contraste reciente con ChatGPT conectado al repo, quedan todavía varios cabos sueltos que conviene convertir en **extracciones concretas desde la base de datos/programa** para no depender de lecturas parciales.
+- Lo ya asumido como **contaminado** y no utilizable en bruto para rentabilidad final es la lectura de **ALMERIENSE** por margen de líneas 2025; cualquier intento futuro debe pasar por depuración específica.
+- Piezas todavía no cerradas o no suficientemente blindadas que conviene intentar extraer mejor desde BBDD o desde el programa:
+  - **resultado oficial / comparable de ECOCLEAN** si la aplicación permite sacar PYG, balance o sumas/saldos equivalentes
+  - **consolidación real del grupo** o, si no existe como tal, al menos base para reconstrucción prudente de flujos intersocietarios
+  - **qué parte del beneficio se mueve entre sociedades** (intragrupo, alquileres, cargos internos, cesiones, etc.)
+  - **costes de personal reales por empresa**
+  - **flujo de caja real** o aproximación razonable desde extractos/movimientos/saldos
+  - **patrimonio neto consolidado** o, al menos, patrimonio neto por sociedad con base homogénea
+  - **inventario patrimonial completo** del grupo o base suficiente para construirlo
+  - **capacidad real de generación de caja libre anual**
+- Mantener estas piezas como objetivo de extracción progresiva y no como invitación a inventar cierres donde todavía no los hay.
+
 ## Nota de cierre de fase del núcleo
 - La fase actual del núcleo queda ya sintetizada en `13_conocimiento_generado/sintesis_cierre_fase_nucleo_v1.md`.
 - A partir de aquí, las dudas abiertas deberían ser cada vez más de **remate fino** o de **mejor extracción**, no de reabrir desde cero la arquitectura general Chemie-ACI-Ecoclean salvo aparición de prueba fuerte nueva.

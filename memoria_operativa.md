@@ -45,6 +45,7 @@ Solo conocimiento ya destilado:
 - **ECOCLEAN** sigue saliendo razonablemente bien en la BBDD y puede entrar como señal operativa positiva orientativa, pero no debe tratarse aún como resultado oficial mientras falten PYG/balance oficiales.
 - **ALMERIENSE** no debe penalizar todavía la lectura final del grupo por su margen bruto de líneas 2025, porque su capa de rentabilidad sigue contaminada y necesita depuración separando referencias tóxicas, patrimonial/no core e intragrupo.
 - La forma correcta de comunicar el estado actual no es “beneficio consolidado final del grupo”, sino “resultado agregado preliminar” o, como mucho, “resultado ampliado orientativo” cuando se incorpore Ecoclean por BBDD.
+- Además, ya consta una primera evidencia útil de cuentas **551** y **552** en **CHEMIE** y **ACI**, visibles en sumas/saldos y balance, que puede ser importante para entender movimientos entre socio, empresa y vinculadas, aunque todavía falte interpretación fina de esos saldos.
 
 ### Sobre el bloque químico de Chemie
 - El catálogo químico de Chemie se aprende mucho mejor por **mundos funcionales** que por lista plana de productos.

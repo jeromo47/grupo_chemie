@@ -1,0 +1,122 @@
+## ACI_Balance_Situacion_2025.xlsx
+Sheets: Activo, Pasivo
+### Sheet: Activo
+Empresa : Almeriense Complementos Industriales
+Listado:  BALANCE DE SITUACIÓN
+Periodo: De 01/01/2025 a 31/12/2025
+Fecha: 30/03/2026
+*
+EjercicioN | EjercicioN-1
+ | 
+ | 
+ACTIVO |  | 
+ |  | A) ACTIVO NO CORRIENTE | 197874.72 | 206045.93
+I. | Inmovilizado intangible. | 1247.1300000000001 | 1647.13
+1 | Desarrollo. |  | 
+### Sheet: Pasivo
+Empresa : Almeriense Complementos Industriales
+Listado:  BALANCE DE SITUACIÓN
+Periodo: De 01/01/2025 a 31/12/2025
+Fecha: 30/03/2026
+*
+EjercicioN | EjercicioN-1
+ | 
+ | 
+PATRIMONIO NETO Y PASIVO |  | 
+ |  | A) PATRIMONIO NETO | 256089.37 | 226443.67
+ |  | Fondos propios. | 254842.23999999999 | 224796.54
+I. | Capital. | 3125.24 | 3125.24
+
+## ACI_PYG_ANUAL_2025.xlsx
+Sheets: Hoja1
+### Sheet: Hoja1
+Empresa : Almeriense Complementos Industriales
+Listado:  PÉRDIDAS Y GANANCIAS
+Periodo: De 01/01/2025 a 31/12/2025
+Fecha: 30/03/2026
+*
+EjercicioN | EjercicioN-1
+ | A) | OPERACIONES CONTINUADAS |  | 
+1 | Importe neto de la cifra de negocios. | 115951.88 | 123542.56
+a. | Ventas. | 115951.88 | 123542.56
+7000 | Ventas de mercaderías | 115951.88 | 123542.56
+b. | Prestaciones de servicios. |  | 
+2 | Variación de existencias de productos terminados y en curso de fabricación. |  | 
+
+## CHEMIE_Balance_Situacion_2025.xlsx
+Sheets: Activo, Pasivo
+### Sheet: Activo
+Empresa : GRUPO CHEMIE LA JUAIDA S.L.
+Listado:  BALANCE DE SITUACIÓN
+Periodo: De 01/01/2025 a 31/12/2025
+Fecha: 30/03/2026
+*
+EjercicioN | EjercicioN-1
+ | 
+ | 
+ACTIVO |  | 
+ |  | A) ACTIVO NO CORRIENTE | 171584.36 | 
+I. | Inmovilizado intangible. | 2038.36 | 
+1 | Desarrollo. |  | 
+### Sheet: Pasivo
+Empresa : GRUPO CHEMIE LA JUAIDA S.L.
+Listado:  BALANCE DE SITUACIÓN
+Periodo: De 01/01/2025 a 31/12/2025
+Fecha: 30/03/2026
+*
+EjercicioN | EjercicioN-1
+ | 
+ | 
+PATRIMONIO NETO Y PASIVO |  | 
+ |  | A) PATRIMONIO NETO | 347876.57 | 
+ |  | Fondos propios. | 345838.51 | 
+I. | Capital. | 3700 | 
+
+## CHEMIE_PYG_ANUAL_2025.xlsx
+Sheets: Hoja1
+### Sheet: Hoja1
+Empresa : GRUPO CHEMIE LA JUAIDA S.L.
+Listado:  PÉRDIDAS Y GANANCIAS
+Periodo: De 01/01/2025 a 31/12/2025
+Fecha: 30/03/2026
+*
+EjercicioN | EjercicioN-1
+ | A) | OPERACIONES CONTINUADAS |  | 
+1 | Importe neto de la cifra de negocios. | 614619.44999999995 | 589365.22
+a. | Ventas. | 614619.44999999995 | 589365.22
+7000 | Ventas de mercaderías | 614619.44999999995 | 589365.22
+b. | Prestaciones de servicios. |  | 
+2 | Variación de existencias de productos terminados y en curso de fabricación. |  | 
+
+## SumaySaldos_ACI_2025_Anual.xlsx
+Sheets: Balance de Sumas y Saldos
+### Sheet: Balance de Sumas y Saldos
+Empresa : Almeriense Complementos Industriales
+Listado:  Balance de Sumas y Saldos
+Periodo: De 01/01/2025 a 31/12/2025
+Fecha: 30/03/2026
+*
+Cuenta | Título | Debe | Haber | Deudor | Acreedor
+Grupo 1 |  |  |  |  | 
+1020000000 | CAPITAL | 0 | 3125.24 |  | 3125.24
+1020 | Capital | 0 | 3125.24 |  | 3125.24
+102 | Capital | 0 | 3125.24 |  | 3125.24
+10 | CAPITAL | 0 | 3125.24 |  | 3125.24
+1120000000 | RESERVA LEGAL | 0 | 2986.48 |  | 2986.48
+
+## SumaySaldos_CHEMIE_2025_Anual.xlsx
+Sheets: Balance de Sumas y Saldos
+### Sheet: Balance de Sumas y Saldos
+Empresa : GRUPO CHEMIE LA JUAIDA S.L.
+Listado:  Balance de Sumas y Saldos
+Periodo: De 01/01/2025 a 31/12/2025
+Fecha: 30/03/2026
+*
+Cuenta | Título | Debe | Haber | Deudor | Acreedor
+Grupo 1 |  |  |  |  | 
+1000000000 | CAPITAL SOCIAL | 0 | 3700 |  | 3700
+1000 | Capital social | 0 | 3700 |  | 3700
+100 | Capital social | 0 | 3700 |  | 3700
+10 | CAPITAL | 0 | 3700 |  | 3700
+1120000000 | RESERVA LEGAL | 0 | 14046.64 |  | 14046.64
+

@@ -11,6 +11,10 @@ Resumen maestro del estado de conocimiento del grupo familiar.
 - el núcleo **Chemie-ACI-Ecoclean** ya puede leerse como un sistema funcional y no solo como tres carpetas separadas
 - Jero quiere usar Minion para construir conocimiento progresivo a partir de documentos reales, pero ya existe una base bastante más estructurada de la que había al inicio
 - el bloque químico de Chemie ya no está en fase verde: existe una base de aprendizaje seria por productos, procesos, mundos funcionales, perímetro ECO y preguntas abiertas priorizadas
+- ya existe un nuevo módulo `25_RESULTADO_REAL_2025` con soporte oficial 2025 de **CHEMIE** y **ACI** (PYG, balance y sumas/saldos), lo que permite elevar la lectura del grupo desde simple BBDD a una primera capa semioficial seria de resultado económico
+- queda fijado como nuevo suelo serio del proyecto un **resultado agregado preliminar 2025** de **73.266,96 € antes de impuestos** para **CHEMIE + ACI** (`43.221,26 €` + `30.045,70 €`)
+- **ECOCLEAN** sigue saliendo bien en la BBDD y puede sostener una lectura operativa positiva orientativa, pero todavía no entra como resultado oficial por faltar PYG/balance oficiales
+- **ALMERIENSE** se confirma como sociedad con actividad real, pero no debe leerse aún por margen bruto de líneas para fijar su rentabilidad final, porque su capa 2025 sigue contaminada y pendiente de depuración seria
 
 ## Qué falta
 - seguir cerrando el mapa real de personas y roles operativos del grupo con más apoyo documental y, cuando toque, con extracción directa de know-how
@@ -19,6 +23,9 @@ Resumen maestro del estado de conocimiento del grupo familiar.
 - completar huecos documentales concretos de ACI y Ecoclean cuando aparezcan nuevos papeles útiles
 - mantener vivo un plan operativo de transición generacional y de incorporación de Jero
 - en el frente químico, avanzar solo donde aparezca documentación nueva de alto retorno (por ejemplo FDS, dosificación, máquinas/puntos de uso o soporte ECO adicional)
+- conseguir la capa oficial 2025 de **ECOCLEAN** (PYG, balance y sumas/saldos) para poder pasar del resultado agregado preliminar parcial a una agregación más completa del grupo
+- abrir una pieza específica de **resultado real depurado de ALMERIENSE 2025**, separando mercado limpio aproximado, patrimonial/no core, intragrupo y referencias/costes tóxicos antes de incorporar su rentabilidad al cuadro global
+- construir una pieza posterior de **agregación prudente del grupo** que separe resultado oficial soportado, resultado estimado prudente y resultado todavía no defendible
 
 ## Riesgos actuales
 - información dispersa
@@ -47,7 +54,11 @@ con foco principal en:
 - preparación de la transferencia de know-how de tío y padre
 - definición del cuadro de mando mínimo
 - reducción del esfuerzo dedicado a histórico documental de bajo retorno inmediato
-- y consolidación del conocimiento útil ya construido para que no quede disperso en piezas aisladas
+- consolidación del conocimiento útil ya construido para que no quede disperso en piezas aisladas
+- y, ya en un nivel económico más fino, construcción gradual de una lectura de **resultado real del grupo 2025** separando:
+  - resultado oficial soportado
+  - resultado estimado prudente
+  - y rentabilidad todavía no defendible por falta de depuración o soporte oficial
 
 ## Frente técnico ya abierto y bastante avanzado
 Además de la preparación remota de entrada, ya se ha desarrollado un frente técnico de alto valor en torno al catálogo químico de Chemie:

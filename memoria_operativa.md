@@ -36,6 +36,16 @@ Solo conocimiento ya destilado:
 - **Ecoclean** debe leerse como vehículo ligero, familiar y transicional, útil para observar redistribución de actividad y relevo, pero sin sobredimensionarla como núcleo duro del grupo.
 - Una vez alcanzado este nivel, seguir generando narrativa transversal sin documento nuevo ofrece rendimiento decreciente; conviene cambiar de frente o esperar prueba nueva.
 
+### Sobre la lectura económica real 2025
+- La BBDD 2025 permite una lectura operativa muy útil del grupo, pero no equivale por sí sola a resultado económico final limpio.
+- El nuevo módulo `25_RESULTADO_REAL_2025` eleva la solidez del proyecto porque incorpora **PYG, balance y sumas/saldos oficiales 2025** de **CHEMIE** y **ACI**.
+- Con ese soporte ya puede fijarse un nuevo suelo serio: **resultado agregado preliminar 2025** de **73.266,96 € antes de impuestos** para **CHEMIE + ACI**.
+- **CHEMIE** queda confirmada no solo como motor de ventas y margen estimado, sino también como sociedad con **resultado positivo real oficial** en 2025.
+- **ACI** queda confirmada como pieza económica positiva real, no solo como soporte patrimonial narrativo.
+- **ECOCLEAN** sigue saliendo razonablemente bien en la BBDD y puede entrar como señal operativa positiva orientativa, pero no debe tratarse aún como resultado oficial mientras falten PYG/balance oficiales.
+- **ALMERIENSE** no debe penalizar todavía la lectura final del grupo por su margen bruto de líneas 2025, porque su capa de rentabilidad sigue contaminada y necesita depuración separando referencias tóxicas, patrimonial/no core e intragrupo.
+- La forma correcta de comunicar el estado actual no es “beneficio consolidado final del grupo”, sino “resultado agregado preliminar” o, como mucho, “resultado ampliado orientativo” cuando se incorpore Ecoclean por BBDD.
+
 ### Sobre el bloque químico de Chemie
 - El catálogo químico de Chemie se aprende mucho mejor por **mundos funcionales** que por lista plana de productos.
 - Los mundos funcionales ya abiertos con sentido son:

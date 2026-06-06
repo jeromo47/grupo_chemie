@@ -126,6 +126,21 @@ Por tanto:
 - útil como señal
 - **no como resultado oficial comparable al de CHEMIE y ACI**
 
+Aun así, no conviene borrarla de la lectura económica del grupo, porque el trabajo previo sobre BBDD ya la dejaba en una posición bastante coherente:
+- **ventas BBDD 2025:** **89.077,75 €**
+- **margen estimado BBDD:** **41.692,94 €**
+- **margen estimado %:** **46,81 %**
+
+Esto permite, con prudencia metodológica, hablar de una segunda capa:
+- **resultado agregado preliminar ampliado**
+
+es decir:
+- **CHEMIE + ACI soportado oficialmente:** **73.266,96 €** antes de impuestos
+- **más ECOCLEAN como estimación prudente BBDD:** **41.692,94 €**
+- **= 114.959,90 €** como **resultado agregado preliminar ampliado orientativo**
+
+Este número no debe presentarse como beneficio final consolidado, pero sí como una aproximación más completa del núcleo económico del grupo.
+
 ## 5.2 ALMERIENSE no puede entrar por margen de líneas
 El trabajo reciente ha dejado esto muy claro:
 - el margen por líneas 2025 de ALMERIENSE está contaminado
@@ -163,15 +178,20 @@ El agregado parcial soportado documentalmente asciende a:
 - **73.266,96 € antes de impuestos**
 
 ### Afirmación 3
-Ese número no representa todavía el resultado total final del grupo, porque:
-- falta ECOCLEAN oficial
+Además, con base en el trabajo previo ya consolidado sobre BBDD, puede sostenerse una capa ampliada prudente donde:
+- **ECOCLEAN** entra como pieza operativamente positiva y bastante coherente
+- lo que elevaría el **resultado agregado preliminar ampliado orientativo** al entorno de **114.959,90 €**
+
+### Afirmación 4
+Ese número ampliado no representa todavía el resultado total final del grupo, porque:
+- ECOCLEAN sigue sin soporte oficial PYG/balance/sumas-saldos
 - ALMERIENSE sigue contaminada para lectura final
 - y no se ha hecho consolidación completa intragrupo/patrimonial/fiscal
 
-### Afirmación 4
+### Afirmación 5
 Aun así, este módulo sí permite elevar la tesis central del proyecto:
 
-> **el grupo no solo parece operativo por BBDD; al menos CHEMIE y ACI acreditan ya con soporte oficial una generación positiva de resultado en 2025.**
+> **el grupo no solo parece operativo por BBDD; CHEMIE y ACI acreditan ya con soporte oficial una generación positiva de resultado en 2025, y ECOCLEAN puede añadirse prudentemente como capa ampliada positiva por consistencia de su lectura BBDD.**
 
 ---
 
@@ -208,7 +228,7 @@ con separación entre:
 ## 8. Fórmula de síntesis ejecutiva útil
 Si hubiera que resumir este módulo en pocas líneas:
 
-> En 2025 ya existe soporte oficial suficiente para afirmar que CHEMIE y ACI cerraron con resultado antes de impuestos positivo, sumando **73.266,96 €** de **resultado agregado preliminar**. Este dato mejora mucho la lectura previa basada solo en BBDD, pero todavía no equivale a un beneficio consolidado final del grupo, porque falta ECOCLEAN oficial y ALMERIENSE sigue pendiente de depuración seria para lectura de rentabilidad real.
+> En 2025 ya existe soporte oficial suficiente para afirmar que CHEMIE y ACI cerraron con resultado antes de impuestos positivo, sumando **73.266,96 €** de **resultado agregado preliminar**. Además, si se incorpora **ECOCLEAN** como capa estimada prudente por BBDD, el grupo puede leerse en un entorno orientativo de **114.959,90 €** de **resultado agregado preliminar ampliado**. Este dato mejora mucho la lectura previa basada solo en BBDD, pero todavía no equivale a un beneficio consolidado final del grupo, porque ECOCLEAN sigue sin PYG oficial y ALMERIENSE sigue pendiente de depuración seria para lectura de rentabilidad real.
 
 ---
 

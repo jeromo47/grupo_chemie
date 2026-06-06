@@ -259,6 +259,16 @@ Si hubiera que resumir esta pieza en una frase:
 
 > **El padre y su entorno inmediato no presentan solo una carga de deuda, sino una estructura patrimonial-financiera mixta, donde parte de la deuda está respaldada por activos valiosos, parte se compensa con rentas inmobiliarias y existe además una bolsa relevante de planes/PPA con potencial valor fiscal futuro.**
 
+## 8.1 Encaje con la lectura económica del grupo
+Esta pieza patrimonial convive con la lectura económica ya fijada del proyecto:
+- **resultado agregado preliminar soportado CHEMIE + ACI:** **73.266,96 €** antes de impuestos
+- **resultado agregado preliminar ampliado orientativo incluyendo ECOCLEAN por BBDD:** **114.959,90 €** antes de impuestos
+
+La lectura conjunta útil es esta:
+- existe núcleo económico positivo real ya soportado
+- existe además una capa ampliada razonable si se incorpora ECOCLEAN con prudencia
+- y, al mismo tiempo, existe una estructura patrimonial del padre con deuda, activos que se pagan solos o dejan remanente, y bolsa previsional relevante
+
 ## 9. Tesis útil para recordar
 Cuando se recupere este tema, no conviene preguntar solo:
 - cuánto se debe

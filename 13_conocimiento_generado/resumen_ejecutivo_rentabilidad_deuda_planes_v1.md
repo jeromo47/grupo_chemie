@@ -46,12 +46,18 @@ Sirve como punto rápido de consulta ejecutiva.
 ## Resultado agregado preliminar ya soportado
 - **CHEMIE + ACI = 73.266,96 € antes de impuestos**
 
+## Resultado agregado preliminar ampliado orientativo
+- **CHEMIE + ACI soportado oficialmente:** **73.266,96 €**
+- **ECOCLEAN como estimación prudente BBDD:** **41.692,94 €**
+- **Total ampliado orientativo:** **114.959,90 €** antes de impuestos
+
 ### Criterio correcto
 No llamarlo todavía:
 - beneficio consolidado final del grupo
 
-Sí llamarlo:
+Sí distinguir entre:
 - **resultado agregado preliminar 2025**
+- **resultado agregado preliminar ampliado orientativo**
 
 ---
 
@@ -63,7 +69,8 @@ Sí llamarlo:
 ### Lectura
 - pieza menor pero bastante coherente en lectura operativa
 - todavía **sin PYG oficial**
-- útil como señal positiva, no como resultado oficial cerrado
+- útil como señal positiva
+- y suficientemente consistente como para entrar en el resumen como **capa ampliada prudente**, aunque no como resultado oficial cerrado
 
 ---
 
@@ -172,6 +179,7 @@ Además, la parte **pre-2007** ya visible puede ser importante fiscalmente cuand
 
 ## Probable / orientativo
 - lectura positiva de **ECOCLEAN** por BBDD
+- incorporación prudente de **ECOCLEAN** al resultado agregado ampliado orientativo del grupo
 - lectura del resto limpio de **ALMERIENSE** tras depuración
 
 ## Pendiente / no cerrado
@@ -186,4 +194,4 @@ Además, la parte **pre-2007** ya visible puede ser importante fiscalmente cuand
 ## 6. Tesis ejecutiva final
 Si hubiera que resumir toda esta pieza en pocas líneas:
 
-> En 2025 el núcleo económico ya soportado oficialmente del grupo lo forman CHEMIE y ACI, con **73.266,96 €** de resultado agregado preliminar antes de impuestos. Paralelamente, el entorno patrimonial del padre no debe leerse como deuda aislada, sino como una estructura mixta de deuda + activos con valor y renta asociada + bolsa de planes/PPA relevante, con **313.796 €** de deuda pendiente conocida y **116.986,55 €** orientativos en productos previsionales principales.
+> En 2025 el núcleo económico ya soportado oficialmente del grupo lo forman CHEMIE y ACI, con **73.266,96 €** de resultado agregado preliminar antes de impuestos. Si además se incorpora **ECOCLEAN** como capa estimada prudente por BBDD, el grupo puede leerse en un entorno orientativo de **114.959,90 €** antes de impuestos como resultado agregado preliminar ampliado. Paralelamente, el entorno patrimonial del padre no debe leerse como deuda aislada, sino como una estructura mixta de deuda + activos con valor y renta asociada + bolsa de planes/PPA relevante, con **313.796 €** de deuda pendiente conocida y **116.986,55 €** orientativos en productos previsionales principales.

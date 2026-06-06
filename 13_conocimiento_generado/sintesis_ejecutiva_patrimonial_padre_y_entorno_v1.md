@@ -194,7 +194,40 @@ Esta pieza debe recordarse así:
 
 ---
 
-## 6. Qué sigue pendiente
+## 6. Nueva capa de transición y titularidad
+### Titularidad
+Queda fijado como dato estratégico comunicado por Jero que:
+- **Jerónimo Molina Cantón es a nivel personal el dueño efectivo del 100 % de todo el grupo de empresas**
+
+### Jubilación del padre
+Queda fijado también que:
+- por su jubilación percibe aprox. **1.100 € netos al mes**
+- como estimación muy prudente y orientativa, eso podría equivaler a un **bruto anual aproximado del entorno de 16.000 € - 18.000 €**, pero esta cifra **no debe tratarse como cálculo fiscal cerrado** sin certificado real de pensión/retenciones
+
+### Entrada de Jero en septiembre
+Queda comunicado como hipótesis operativa para septiembre de 2026 que:
+- **Jero pasará a tener un sueldo neto como administrador de 1.500 € al mes**
+- la sociedad de referencia para soportar ese coste será **CHEMIE**
+
+### Estimación prudente de coste empresa
+Sin tabla salarial ni configuración fiscal exacta, una estimación prudente de trabajo sería:
+- **neto mensual Jero:** **1.500 €**
+- **coste empresa mensual estimado:** aprox. **2.100 € - 2.300 €**
+- **coste empresa anual estimado:** aprox. **25.200 € - 27.600 €**
+
+### Implicación económica clave
+Según lo comunicado por Jero:
+- cuando él entre en la empresa en septiembre, **su padre ya no estará en el grupo porque estará jubilado**
+- por tanto, **no habrá ahorro de nómina del padre que compense la entrada de Jero**
+
+La lectura correcta de esta transición no es “sustitución neutra de coste”, sino:
+- entrada de nuevo coste salarial de Jero en CHEMIE
+- con padre ya fuera del grupo a nivel de nómina operativa
+- aunque el padre conserve la titularidad del grupo y una pensión mensual externa
+
+---
+
+## 7. Qué sigue pendiente
 ### Préstamos
 - banco de `Macan`
 - banco de `BMW XR`
@@ -207,6 +240,11 @@ Esta pieza debe recordarse así:
 - confirmación exacta de `Mapfre Crecimiento`
 - definición futura de estrategia de rescate
 
+### Capa laboral/fiscal futura
+- confirmar coste empresa real de Jero cuando exista configuración salarial efectiva
+- confirmar si la figura exacta será administrador puro, nómina ordinaria, o combinación con otra estructura
+- sustituir la estimación de bruto de pensión del padre por certificado real si un día se necesita para IRPF o planificación fina
+
 ### Lectura estratégica futura
 Cuando el padre defina su estrategia de rescate de planes, esta pieza deberá ampliarse con:
 - orden de rescate
@@ -216,12 +254,12 @@ Cuando el padre defina su estrategia de rescate de planes, esta pieza deberá am
 
 ---
 
-## 7. Conclusión ejecutiva
+## 8. Conclusión ejecutiva
 Si hubiera que resumir esta pieza en una frase:
 
 > **El padre y su entorno inmediato no presentan solo una carga de deuda, sino una estructura patrimonial-financiera mixta, donde parte de la deuda está respaldada por activos valiosos, parte se compensa con rentas inmobiliarias y existe además una bolsa relevante de planes/PPA con potencial valor fiscal futuro.**
 
-## 8. Tesis útil para recordar
+## 9. Tesis útil para recordar
 Cuando se recupere este tema, no conviene preguntar solo:
 - cuánto se debe
 

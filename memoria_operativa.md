@@ -46,6 +46,7 @@ Solo conocimiento ya destilado:
 - **ALMERIENSE** no debe penalizar todavía la lectura final del grupo por su margen bruto de líneas 2025, porque su capa de rentabilidad sigue contaminada y necesita depuración separando referencias tóxicas, patrimonial/no core e intragrupo.
 - La forma correcta de comunicar el estado actual no es “beneficio consolidado final del grupo”, sino “resultado agregado preliminar” o, como mucho, “resultado ampliado orientativo” cuando se incorpore Ecoclean por BBDD.
 - Además, ya consta una primera evidencia útil de cuentas **551** y **552** en **CHEMIE** y **ACI**, visibles en sumas/saldos y balance, que puede ser importante para entender movimientos entre socio, empresa y vinculadas, aunque todavía falte interpretación fina de esos saldos.
+- Tras contraste adicional con Claude y revisión del documento estratégico patrimonial/fiscal, puede conservarse como **estimación declarada de trabajo** una cifra de entorno **70.000 €** como **beneficio sostenible post relevo**, entendida como lectura más estructural y prudente de la etapa futura, no como resultado oficial cerrado del ejercicio 2025.
 
 ### Sobre el bloque químico de Chemie
 - El catálogo químico de Chemie se aprende mucho mejor por **mundos funcionales** que por lista plana de productos.

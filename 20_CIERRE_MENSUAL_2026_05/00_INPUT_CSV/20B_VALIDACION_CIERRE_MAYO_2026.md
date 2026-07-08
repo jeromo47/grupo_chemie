@@ -1,5 +1,7 @@
 # Validación paquete 20B - Cierre mensual mayo 2026
 
+> DUPLICADO: este markdown también existe en `../01_VALIDACION/20B_VALIDACION_CIERRE_MAYO_2026.md`. Mantener aquí solo porque venía dentro del ZIP limpio original.
+
 ## Estado
 
 Paquete recibido y leído correctamente. Los 10 CSV están presentes. He limpiado cabeceras repetidas y espacios de salida de Firebird.

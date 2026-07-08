@@ -1,0 +1,19 @@
+{
+  "fbclient_dll": "C:\\grupo_chemie\\fbclient_x64\\fbclient.dll",
+  "host": "localhost",
+  "puerto": 3050,
+  "usuario": "SYSDBA",
+  "password": "RELLENAR_PASSWORD_REAL",
+  "charset_conexion": "PENDIENTE",
+  "empresas": {
+    "CHEMIE": {
+      "fdb": "C:\\MasterSQL\\GRUPO CHEMIE LA JUAIDA S.L\\MASTERSQL.TEC"
+    },
+    "ACI": {
+      "fdb": "C:\\MasterSQL\\Almeriense Complementos Industriales\\MASTERSQL.TEC"
+    },
+    "ECOCLEAN": {
+      "fdb": "C:\\MasterSQL\\ECOCLEAN ALMERIA C.B\\MASTERSQL.TEC"
+    }
+  }
+}
